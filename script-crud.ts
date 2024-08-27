@@ -157,7 +157,7 @@ const atualizarUI = () => {
         button.classList.add('app_button-edit')
 
         const editIcon = document.createElement('img')
-        editIcon.setAttribute('src', '/imagens/edit.png')
+        editIcon.setAttribute('src', 'imagens/edit.png')
 
         button.appendChild(editIcon)
 
